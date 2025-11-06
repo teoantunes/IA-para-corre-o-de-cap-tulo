@@ -1,0 +1,5 @@
+{
+  "name": "Revisor Acadêmico com Gemini",
+  "description": "Uma ferramenta de revisão de texto acadêmico que utiliza a API Gemini para corrigir e aprimorar textos sobre educação, sexualidade e relações de gênero, seguindo um conjunto rigoroso de regras estilísticas e de conteúdo.",
+  "requestFramePermissions": []
+}
